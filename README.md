@@ -1,6 +1,12 @@
-# tekken-python-ml
+# Tekken Python
 
 <img src="0001.jpg"/>
+
+<h1>Description</h1>
+Hi this is new project of playing tekken game using python. In this physical movements of body are converted to in game control. For making this project I used mediapipe and pyautogui to send key<br>
+inputs. Also mediapipe is used for pose estimation and from that detected pose certain decisions such as Punch or Defend are taken.
+In this video I explained how you make these type of projects very easily by just using few libs.<br>
+Also the opencv module is used to read from the webcam.
 
 <h1>Requirements</h1>
 <code>pip install mediapipe</code><br>
